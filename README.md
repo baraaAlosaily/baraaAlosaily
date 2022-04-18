@@ -22,7 +22,7 @@
 
 
 <h3 align="left">Status:</h3>
-<p><a href="https://www.buymeacoffee.com/baraaAlosaily"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=baraaAlosaily&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height="400" width="800" alt="baraaAlosaily" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/baraaAlosaily"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=baraaAlosaily&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height="200" width="400" alt="baraaAlosaily" /></a></p><br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baraaAlosaily&layout=compact&theme=dracula" height="400" width="800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baraaAlosaily&layout=compact&theme=dracula" height="200" width="400" />
 
